@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1, "nombre": "Messi", "precio": 20000, "img": "https://acdn.mitiendanube.com/stores/819/313/products/010hb1-8bc12a2d5ff7c47cb316710289632568-640-0.png"
+    },
+
+    {
+        "id": 2, "nombre": "Selección Argentina", "precio": 30000, "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/89cc99c51bc240c8a5f8c259c5fb76b3_9366/Remera_Argentina_24_Beige_IY5490_01_laydown.jpg"
+    },
+
+    {
+        "id": 3, "nombre": "Jesús", "precio": 60000, "img": "https://acdn.mitiendanube.com/stores/830/660/products/zt-0672-frente1-a055546af8894e9f3d16008130900809-1024-1024.jpg"
+    },
+
+    {
+        "id": 4, "nombre": "Alternativa Selección ", "precio": 100000, "img": "https://s3.sa-east-1.amazonaws.com/www.vaypol.com.ar/variants/gqa64pkpgx8zoyntqkxdfh7ezd00/c77c2a06864ac9aca38dc5bd9371de015471edcdbf322dfb14411689bf968ae5"
+    }
+]
+
